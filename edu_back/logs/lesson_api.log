@@ -1,0 +1,368 @@
+INFO 2020-12-03 20:07:43,855 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-12-03 20:16:07,198 basehttp 124 "GET / HTTP/1.1" 200 16348
+WARNING 2020-12-03 20:36:04,526 base 93 Not Found: /
+WARNING 2020-12-03 20:36:04,527 basehttp 124 "GET / HTTP/1.1" 404 2047
+WARNING 2020-12-03 20:36:04,959 base 93 Not Found: /favicon.ico
+WARNING 2020-12-03 20:36:04,960 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2098
+WARNING 2020-12-03 22:36:28,294 base 93 Not Found: /
+WARNING 2020-12-03 22:36:28,295 basehttp 124 "GET / HTTP/1.1" 404 2047
+WARNING 2020-12-03 22:36:28,539 base 93 Not Found: /favicon.ico
+WARNING 2020-12-03 22:36:28,539 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2098
+WARNING 2020-12-03 22:40:02,921 base 93 Not Found: /
+WARNING 2020-12-03 22:40:02,922 basehttp 124 "GET / HTTP/1.1" 404 2047
+INFO 2020-12-03 22:40:09,916 basehttp 124 "GET /admin HTTP/1.1" 301 0
+INFO 2020-12-03 22:40:10,065 basehttp 124 "GET /admin/ HTTP/1.1" 200 4163
+INFO 2020-12-03 22:40:10,412 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2020-12-03 22:40:10,415 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2020-12-03 22:40:10,416 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8376
+INFO 2020-12-03 22:40:10,416 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2020-12-03 22:40:10,417 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2020-12-03 22:40:10,430 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2020-12-03 22:40:10,446 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2020-12-03 22:40:10,446 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2020-12-03 22:40:10,447 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 4170
+INFO 2020-12-03 22:40:10,452 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2020-12-03 22:40:10,459 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2020-12-03 22:40:10,459 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2020-12-03 22:40:10,463 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2020-12-03 22:40:10,467 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2020-12-03 22:40:10,470 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2020-12-03 22:40:11,073 basehttp 124 "GET /admin/ HTTP/1.1" 200 4163
+INFO 2020-12-03 22:40:11,142 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 4170
+INFO 2020-12-03 22:40:11,300 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2020-12-03 22:40:19,474 basehttp 124 "POST /admin/ HTTP/1.1" 302 0
+INFO 2020-12-03 22:40:19,533 basehttp 124 "GET /admin/ HTTP/1.1" 200 9810
+INFO 2020-12-03 22:40:19,566 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2020-12-03 22:40:19,568 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2020-12-03 22:40:19,575 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2020-12-03 22:40:19,592 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:43:49,518 basehttp 124 "GET /admin/ HTTP/1.1" 200 14764
+INFO 2020-12-03 22:43:49,582 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2020-12-03 22:43:49,588 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2020-12-03 22:43:49,624 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:43:52,411 basehttp 124 "GET /admin/xadmin/userwidget/add/?user=1&page_id=home&_redirect=/admin/ HTTP/1.1" 200 18966
+INFO 2020-12-03 22:43:52,433 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2020-12-03 22:43:52,488 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+INFO 2020-12-03 22:43:52,500 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:44:13,035 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 24323
+INFO 2020-12-03 22:44:13,089 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2020-12-03 22:44:13,112 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2020-12-03 22:44:13,116 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2020-12-03 22:44:13,116 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2020-12-03 22:44:13,121 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:44:19,135 basehttp 124 "GET /admin/home/nav/ HTTP/1.1" 200 24759
+INFO 2020-12-03 22:44:19,176 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:44:19,946 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 24323
+INFO 2020-12-03 22:44:19,995 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:44:25,074 basehttp 124 "GET /admin/home/banner/add/ HTTP/1.1" 200 19787
+INFO 2020-12-03 22:44:25,110 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 200 3339
+INFO 2020-12-03 22:44:25,119 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 200 8309
+INFO 2020-12-03 22:44:25,123 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 200 15611
+INFO 2020-12-03 22:44:25,130 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:46:38,577 basehttp 124 "GET /admin/home/banner/add/ HTTP/1.1" 200 19806
+INFO 2020-12-03 22:46:38,613 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:47:32,045 basehttp 124 "POST /admin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2020-12-03 22:47:32,187 basehttp 124 "GET /admin/home/banner/add/ HTTP/1.1" 200 20146
+INFO 2020-12-03 22:47:32,279 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:48:19,101 basehttp 124 "POST /admin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2020-12-03 22:48:19,188 basehttp 124 "GET /admin/home/banner/add/ HTTP/1.1" 200 20142
+INFO 2020-12-03 22:48:19,228 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:48:37,694 basehttp 124 "POST /admin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2020-12-03 22:48:37,790 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 29519
+INFO 2020-12-03 22:48:37,868 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2020-12-03 22:48:37,882 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:49:12,903 basehttp 124 "GET /admin/home/banner/?_cols=title.orders.is_show.img HTTP/1.1" 200 31590
+INFO 2020-12-03 22:49:12,942 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-03 22:49:14,975 basehttp 124 "GET /admin/home/banner/?_cols=title.orders.is_show.img.link HTTP/1.1" 200 32666
+INFO 2020-12-03 22:49:15,027 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-03 22:59:05,280 base 93 Not Found: /api/home/banners/
+WARNING 2020-12-03 22:59:05,281 basehttp 124 "GET /api/home/banners/ HTTP/1.1" 404 2221
+WARNING 2020-12-03 22:59:52,855 base 93 Not Found: /api/home/banners/
+WARNING 2020-12-03 22:59:52,856 basehttp 124 "GET /api/home/banners/ HTTP/1.1" 404 2221
+INFO 2020-12-03 23:00:44,820 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-03 23:20:52,125 basehttp 124 "GET /admin/home/banner/?_cols=title.orders.is_show.img.link HTTP/1.1" 200 32666
+ERROR 2020-12-03 23:50:15,505 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-12-03 23:50:15,554 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 65367
+INFO 2020-12-03 23:50:58,867 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+ERROR 2020-12-03 23:51:53,513 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-12-03 23:51:53,543 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 65367
+INFO 2020-12-03 23:52:03,781 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+ERROR 2020-12-03 23:53:38,515 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-12-03 23:53:38,556 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 65367
+ERROR 2020-12-03 23:54:06,510 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-12-03 23:54:06,549 basehttp 124 "GET /home/banners/ HTTP/1.1" 400 65464
+INFO 2020-12-03 23:54:38,208 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-04 00:00:07,811 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-04 00:00:07,929 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 200 364808
+INFO 2020-12-04 00:00:07,963 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 200 745382
+INFO 2020-12-04 00:00:08,006 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 200 737783
+INFO 2020-12-04 00:02:07,787 basehttp 124 "GET /admin/home/banner/add/ HTTP/1.1" 200 19806
+ERROR 2020-12-04 00:02:07,789 basehttp 124 "GET /admin/home/banner/add/ HTTP/1.1" 500 59
+INFO 2020-12-04 00:02:09,115 basehttp 124 "GET /admin/home/banner/add/ HTTP/1.1" 200 19806
+INFO 2020-12-04 00:02:09,168 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,201 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,204 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,205 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,205 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,207 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,209 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,211 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,221 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,226 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,230 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,234 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,238 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,236 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,237 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,235 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,251 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,256 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,260 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,261 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,265 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,265 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:09,273 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 00:02:09,303 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:49,041 basehttp 124 "POST /admin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 00:02:49,130 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 30115
+INFO 2020-12-04 00:02:49,186 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:49,187 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:49,187 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:49,188 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:02:49,203 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 00:02:49,207 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-12-04 00:03:43,107 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 329
+INFO 2020-12-04 00:03:43,130 basehttp 124 "GET /media/banner/04.jpg HTTP/1.1" 200 7568
+INFO 2020-12-04 00:06:17,640 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 329
+INFO 2020-12-04 00:06:17,652 basehttp 124 "GET /media/banner/04.jpg HTTP/1.1" 304 0
+INFO 2020-12-04 00:07:18,931 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 329
+INFO 2020-12-04 00:07:18,948 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-12-04 00:07:18,949 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+WARNING 2020-12-04 00:07:18,958 base 93 Not Found: /media/banner/04.png
+WARNING 2020-12-04 00:07:18,959 basehttp 124 "GET /media/banner/04.png HTTP/1.1" 404 1853
+INFO 2020-12-04 00:08:16,991 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 329
+INFO 2020-12-04 00:08:17,011 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+WARNING 2020-12-04 00:08:17,023 base 93 Not Found: /media/banner/04.png
+WARNING 2020-12-04 00:08:17,024 basehttp 124 "GET /media/banner/04.png HTTP/1.1" 404 1853
+INFO 2020-12-04 00:08:50,342 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 329
+WARNING 2020-12-04 00:08:50,365 base 93 Not Found: /media/banner/04.png
+WARNING 2020-12-04 00:08:50,367 basehttp 124 "GET /media/banner/04.png HTTP/1.1" 404 1853
+INFO 2020-12-04 00:09:17,333 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-04 00:14:07,905 basehttp 124 "GET /admin/home/nav/ HTTP/1.1" 200 24759
+INFO 2020-12-04 00:14:07,952 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 00:14:42,647 basehttp 124 "GET /admin/home/nav/add/ HTTP/1.1" 200 19154
+INFO 2020-12-04 00:14:42,679 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+INFO 2020-12-04 00:14:42,695 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+INFO 2020-12-04 00:14:42,696 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+WARNING 2020-12-04 00:14:42,711 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 00:14:42,714 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+INFO 2020-12-04 00:14:42,715 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+INFO 2020-12-04 00:14:42,716 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+INFO 2020-12-04 00:14:42,723 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 00:14:42,789 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 00:15:23,590 basehttp 124 "POST /admin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 00:15:23,679 basehttp 124 "GET /admin/home/nav/add/ HTTP/1.1" 200 19489
+WARNING 2020-12-04 00:15:23,724 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 00:15:23,729 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 00:15:23,760 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 00:18:49,836 basehttp 124 "POST /admin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 00:18:49,924 basehttp 124 "GET /admin/home/nav/add/ HTTP/1.1" 200 19494
+WARNING 2020-12-04 00:18:49,963 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 00:18:49,974 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 00:18:50,014 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 00:19:29,579 basehttp 124 "POST /admin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 00:19:29,668 basehttp 124 "GET /admin/home/nav/add/ HTTP/1.1" 200 19497
+WARNING 2020-12-04 00:19:29,688 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 00:19:29,705 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 00:19:29,743 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 00:19:52,608 basehttp 124 "POST /admin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 00:19:52,686 basehttp 124 "GET /admin/home/nav/add/ HTTP/1.1" 200 19497
+WARNING 2020-12-04 00:19:52,719 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 00:19:52,730 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 00:19:52,764 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 00:20:18,362 basehttp 124 "POST /admin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 00:20:18,452 basehttp 124 "GET /admin/home/nav/ HTTP/1.1" 200 31133
+INFO 2020-12-04 00:20:18,509 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 00:20:36,689 basehttp 124 "GET /admin/home/nav/ HTTP/1.1" 200 30828
+INFO 2020-12-04 00:20:36,727 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 00:32:50,797 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-04 00:33:30,502 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-04 00:33:30,518 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-12-04 00:33:30,520 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-12-04 00:33:30,522 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+WARNING 2020-12-04 00:54:24,499 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 00:54:24,501 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 00:54:24,527 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-04 00:54:24,550 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-12-04 00:54:24,551 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-12-04 00:54:24,557 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+WARNING 2020-12-04 00:54:56,577 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 00:54:56,579 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 00:54:56,606 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 00:56:22,408 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 00:56:22,408 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+WARNING 2020-12-04 00:56:24,064 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 00:56:24,067 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 00:56:24,078 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 00:56:33,703 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 00:56:33,705 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 00:56:33,721 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 00:56:42,852 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 00:56:42,854 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+WARNING 2020-12-04 00:57:25,385 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 00:57:25,387 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 00:57:25,393 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 00:57:28,859 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 00:57:28,866 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 00:57:28,881 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 01:10:55,060 base 93 Not Found: //home/nav_/
+WARNING 2020-12-04 01:10:55,061 basehttp 124 "GET //home/nav_/ HTTP/1.1" 404 2203
+INFO 2020-12-04 01:10:55,080 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-04 01:10:55,183 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-12-04 01:10:55,190 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-12-04 01:10:55,195 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+WARNING 2020-12-04 01:11:07,604 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 01:11:07,607 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 01:11:07,611 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 01:11:18,829 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 01:11:18,832 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 01:11:18,864 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 01:11:45,742 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 01:11:45,747 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 01:11:45,760 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 01:14:52,332 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 01:14:52,333 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+WARNING 2020-12-04 01:15:00,592 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 01:15:00,596 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 01:15:00,605 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 01:16:08,207 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 01:16:08,208 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 01:16:08,221 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 01:17:15,286 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 01:17:15,287 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 01:17:15,302 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-04 01:20:50,749 basehttp 124 "GET /admin/home/nav/?_cols=title.orders.is_show.is_delete HTTP/1.1" 200 33757
+INFO 2020-12-04 01:20:50,840 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,877 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,879 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,880 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,880 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,881 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,884 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,900 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,900 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,901 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,906 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,917 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,917 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,920 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 01:20:50,921 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,924 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,926 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,935 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,936 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,939 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,940 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,944 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,949 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,950 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:50,998 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-12-04 01:20:54,851 basehttp 124 "GET /admin/home/nav/?_cols=title.orders.is_show HTTP/1.1" 200 32182
+INFO 2020-12-04 01:20:54,894 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 01:20:57,746 basehttp 124 "GET /admin/home/nav/?_cols=title.orders.is_show.link HTTP/1.1" 200 33482
+INFO 2020-12-04 01:20:57,782 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 01:21:00,699 basehttp 124 "GET /admin/home/nav/?_cols=title.orders.is_show.link.is_site HTTP/1.1" 200 35047
+INFO 2020-12-04 01:21:00,740 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 01:21:02,708 basehttp 124 "GET /admin/home/nav/?_cols=title.orders.is_show.link.is_site.is_position HTTP/1.1" 200 36520
+INFO 2020-12-04 01:21:02,761 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 01:21:08,394 basehttp 124 "GET /admin/home/nav/?_cols=title.orders.is_show.link.is_position HTTP/1.1" 200 34915
+INFO 2020-12-04 01:21:08,432 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 01:21:11,804 basehttp 124 "GET /admin/home/nav/?_cols=title.orders.is_show.link.is_position.is_site HTTP/1.1" 200 36520
+INFO 2020-12-04 01:21:11,852 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 01:21:38,880 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 165
+INFO 2020-12-04 01:21:56,118 basehttp 124 "GET /admin/home/nav/add/ HTTP/1.1" 200 19154
+INFO 2020-12-04 01:21:56,164 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 304 0
+INFO 2020-12-04 01:21:56,175 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 304 0
+INFO 2020-12-04 01:21:56,176 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 304 0
+INFO 2020-12-04 01:21:56,178 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:21:56,188 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:21:56,190 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 304 0
+WARNING 2020-12-04 01:21:56,197 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:21:56,204 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 304 0
+INFO 2020-12-04 01:21:56,205 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 01:21:56,264 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:23:20,413 basehttp 124 "POST /admin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 01:23:20,494 basehttp 124 "GET /admin/home/nav/add/ HTTP/1.1" 200 19497
+WARNING 2020-12-04 01:23:20,526 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:23:20,534 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 01:23:20,575 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:23:50,658 basehttp 124 "POST /admin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 01:23:50,745 basehttp 124 "GET /admin/home/nav/add/ HTTP/1.1" 200 19497
+WARNING 2020-12-04 01:23:50,783 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:23:50,788 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 01:23:50,828 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:24:07,098 basehttp 124 "POST /admin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 01:24:07,185 basehttp 124 "GET /admin/home/nav/add/ HTTP/1.1" 200 19497
+WARNING 2020-12-04 01:24:07,223 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:24:07,227 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 01:24:07,269 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:24:25,647 basehttp 124 "POST /admin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 01:24:25,727 basehttp 124 "GET /admin/home/nav/add/ HTTP/1.1" 200 19497
+WARNING 2020-12-04 01:24:25,754 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:24:25,763 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 01:24:25,796 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:24:45,725 basehttp 124 "POST /admin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 01:24:45,810 basehttp 124 "GET /admin/home/nav/add/ HTTP/1.1" 200 19498
+WARNING 2020-12-04 01:24:45,838 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:24:45,847 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 01:24:45,881 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:25:02,251 basehttp 124 "POST /admin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2020-12-04 01:25:02,374 basehttp 124 "GET /admin/home/nav/ HTTP/1.1" 200 34667
+INFO 2020-12-04 01:25:02,425 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 01:25:09,811 basehttp 124 "GET /admin/home/nav/9/update/ HTTP/1.1" 200 19485
+INFO 2020-12-04 01:25:09,855 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-12-04 01:25:09,862 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-12-04 01:25:13,240 basehttp 124 "POST /admin/home/nav/9/update/ HTTP/1.1" 302 0
+INFO 2020-12-04 01:25:13,344 basehttp 124 "GET /admin/home/nav/ HTTP/1.1" 200 34610
+INFO 2020-12-04 01:25:13,390 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-12-04 01:29:36,304 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 165
+INFO 2020-12-04 01:30:03,158 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 165
+INFO 2020-12-04 01:30:12,514 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 165
+INFO 2020-12-04 01:30:19,272 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 165
+INFO 2020-12-04 01:30:37,018 basehttp 124 "GET /home/nav/1 HTTP/1.1" 200 165
+INFO 2020-12-04 01:31:51,606 basehttp 124 "GET /home/nav/1 HTTP/1.1" 200 729
+WARNING 2020-12-04 01:37:49,670 base 93 Not Found: //home/nav/
+INFO 2020-12-04 01:37:49,673 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 01:37:49,674 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+WARNING 2020-12-04 01:37:49,694 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 01:37:49,696 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+INFO 2020-12-04 01:37:49,705 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-12-04 01:37:49,707 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-12-04 01:37:49,708 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+WARNING 2020-12-04 01:39:41,606 base 93 Not Found: //home/nav/1/
+WARNING 2020-12-04 01:39:41,611 base 93 Not Found: //home/nav/2/
+WARNING 2020-12-04 01:39:41,612 basehttp 124 "GET //home/nav/1/ HTTP/1.1" 404 2206
+WARNING 2020-12-04 01:39:41,614 basehttp 124 "GET //home/nav/2/ HTTP/1.1" 404 2206
+INFO 2020-12-04 01:39:41,637 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 01:42:38,129 base 93 Not Found: //home/nav/1/
+WARNING 2020-12-04 01:42:38,133 base 93 Not Found: //home/nav/2/
+WARNING 2020-12-04 01:42:38,134 basehttp 124 "GET //home/nav/1/ HTTP/1.1" 404 2206
+WARNING 2020-12-04 01:42:38,135 basehttp 124 "GET //home/nav/2/ HTTP/1.1" 404 2206
+INFO 2020-12-04 01:42:38,140 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+WARNING 2020-12-04 01:49:53,351 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 01:49:53,352 base 93 Not Found: //home/f_nav/
+WARNING 2020-12-04 01:49:53,353 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+WARNING 2020-12-04 01:49:53,354 basehttp 124 "GET //home/f_nav/ HTTP/1.1" 404 2206
+WARNING 2020-12-04 01:49:56,301 base 93 Not Found: //home/nav/
+WARNING 2020-12-04 01:49:56,302 basehttp 124 "GET //home/nav/ HTTP/1.1" 404 2200
+WARNING 2020-12-04 01:49:56,313 base 93 Not Found: //home/f_nav/
+WARNING 2020-12-04 01:49:56,313 basehttp 124 "GET //home/f_nav/ HTTP/1.1" 404 2206
+INFO 2020-12-04 01:49:56,320 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-04 01:50:29,962 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-04 01:50:29,970 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-04 01:50:31,003 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-04 01:50:31,037 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-04 01:50:31,042 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-04 01:51:26,384 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-04 01:51:26,386 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-04 01:51:26,406 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
