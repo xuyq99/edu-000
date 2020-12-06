@@ -13,11 +13,11 @@ class BannerAPIView(ListAPIView):
 
 # 导航栏头部接口
 class NavAPIView(ListAPIView):
-    queryset = Nav.objects.filter(is_show=True, is_delete=False, is_position=1).order_by("-orders")
+    queryset = Nav.objects.filter(is_show=True, is_delete=False, is_position=1).order_by("orders")
     serializer_class = NavModelSerializer
 
 
 # 导航栏底部接口
 class FNavAPIView(ListAPIView):
-    queryset = Nav.objects.filter(is_show=True, is_delete=False, is_position=2).order_by("-orders")
+    queryset = Nav.objects.filter(is_show=True, is_delete=False, is_position=2).order_by("orders")
     serializer_class = FNavModelSerializer
