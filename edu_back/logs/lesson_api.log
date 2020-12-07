@@ -776,3 +776,459 @@ INFO 2020-12-06 19:14:31,272 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
 INFO 2020-12-06 19:15:46,320 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
 INFO 2020-12-06 19:15:46,324 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
 INFO 2020-12-06 19:15:46,333 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:31:25,376 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:31:25,376 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:31:25,377 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 20:32:21,105 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 20:32:21,111 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:32:21,116 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:32:44,281 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:32:44,281 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 20:32:44,285 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:33:09,114 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 20:33:09,116 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:33:09,120 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:33:45,947 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:33:45,959 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:33:45,960 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 20:33:57,348 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:33:57,359 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:33:57,363 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 20:34:12,724 basehttp 124 "GET /user/captcha/?username=1%401.com HTTP/1.1" 200 140
+INFO 2020-12-06 20:34:19,035 basehttp 124 "OPTIONS /user/captcha/ HTTP/1.1" 200 0
+INFO 2020-12-06 20:34:19,115 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 20
+INFO 2020-12-06 20:34:19,125 basehttp 124 "OPTIONS /user/login/ HTTP/1.1" 200 0
+INFO 2020-12-06 20:34:19,226 basehttp 124 "POST /user/login/ HTTP/1.1" 200 214
+INFO 2020-12-06 20:34:19,293 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:34:19,295 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 20:34:19,300 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:41:44,091 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-12-06 20:41:49,329 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 20
+INFO 2020-12-06 20:41:49,427 basehttp 124 "POST /user/login/ HTTP/1.1" 200 214
+INFO 2020-12-06 20:41:49,479 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:41:49,484 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 20:41:49,490 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:41:53,478 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-12-06 20:42:17,149 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-12-06 20:42:17,206 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 20
+WARNING 2020-12-06 20:42:17,729 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+INFO 2020-12-06 20:42:23,420 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 20
+WARNING 2020-12-06 20:42:23,530 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+INFO 2020-12-06 20:46:06,805 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-12-06 20:46:13,058 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 20
+WARNING 2020-12-06 20:46:13,158 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+INFO 2020-12-06 20:46:28,668 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-12-06 20:46:33,644 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 20
+WARNING 2020-12-06 20:46:33,749 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+INFO 2020-12-06 20:47:09,625 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-12-06 20:47:18,079 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 20
+WARNING 2020-12-06 20:47:18,186 basehttp 124 "POST /user/login/ HTTP/1.1" 400 68
+INFO 2020-12-06 20:47:36,440 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-12-06 20:47:41,895 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 20
+INFO 2020-12-06 20:47:41,990 basehttp 124 "POST /user/login/ HTTP/1.1" 200 214
+INFO 2020-12-06 20:47:42,061 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:47:42,066 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 20:47:42,076 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:47:49,316 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-12-06 20:47:53,978 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 20
+INFO 2020-12-06 20:47:54,078 basehttp 124 "POST /user/login/ HTTP/1.1" 200 214
+INFO 2020-12-06 20:47:54,125 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:47:54,139 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 20:47:54,143 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:54:35,793 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:54:35,798 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 20:54:35,811 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:57:01,756 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 20:57:01,772 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 20:57:01,778 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 21:15:55,462 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 21:15:55,460 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 21:15:55,464 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-06 21:19:04,152 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-06 21:19:04,153 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-06 21:19:04,158 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:35:07,556 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:35:07,556 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:35:07,562 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:35:07,797 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-12-07 09:35:07,797 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-12-07 09:35:07,799 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-12-07 09:35:16,903 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-12-07 09:35:23,204 basehttp 124 "OPTIONS /user/captcha/ HTTP/1.1" 200 0
+INFO 2020-12-07 09:35:23,313 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 20
+INFO 2020-12-07 09:35:23,336 basehttp 124 "OPTIONS /user/login/ HTTP/1.1" 200 0
+INFO 2020-12-07 09:35:23,463 basehttp 124 "POST /user/login/ HTTP/1.1" 200 214
+INFO 2020-12-07 09:35:23,507 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:35:23,512 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:35:23,519 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:36:32,771 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:36:32,773 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:36:32,774 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:37:43,533 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:37:43,534 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:37:43,544 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:38:07,228 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:38:07,238 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:38:07,245 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:38:30,625 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:38:30,633 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:38:30,641 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:38:42,956 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:38:42,969 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:38:42,971 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:39:07,391 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:39:07,400 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:39:07,405 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:39:33,029 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:39:33,043 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:39:33,043 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:39:53,077 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:39:53,086 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:39:53,092 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:40:09,005 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:40:09,007 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:40:09,016 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:40:38,115 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:40:38,121 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:40:38,132 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:40:49,968 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:40:49,978 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:40:49,994 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:43:04,544 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:43:04,547 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:43:04,552 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:45:00,894 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:45:00,903 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:45:00,908 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:50:41,342 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:50:41,343 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:50:41,357 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 09:51:30,672 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 09:51:30,679 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 09:51:30,680 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+WARNING 2020-12-07 13:40:14,424 base 93 Not Found: /users/
+WARNING 2020-12-07 13:40:14,426 basehttp 124 "POST /users/ HTTP/1.1" 404 2294
+WARNING 2020-12-07 13:40:25,424 basehttp 124 "POST /user/users/ HTTP/1.1" 405 41
+WARNING 2020-12-07 13:40:42,959 basehttp 124 "POST /user/users/ HTTP/1.1" 405 41
+WARNING 2020-12-07 13:41:03,791 basehttp 124 "POST /user/users/ HTTP/1.1" 405 41
+WARNING 2020-12-07 13:41:36,760 basehttp 124 "POST /user/users/ HTTP/1.1" 405 41
+WARNING 2020-12-07 13:42:25,442 basehttp 124 "POST /user/users/ HTTP/1.1" 405 41
+WARNING 2020-12-07 13:45:00,567 basehttp 124 "POST /user/users/ HTTP/1.1" 405 41
+ERROR 2020-12-07 13:45:04,615 exception 118 Internal Server Error: /user/users
+Traceback (most recent call last):
+  File "E:\envs\envxyq\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\envs\envxyq\lib\site-packages\django\utils\deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "E:\envs\envxyq\lib\site-packages\django\middleware\common.py", line 61, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "E:\envs\envxyq\lib\site-packages\django\middleware\common.py", line 99, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/user/users/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2020-12-07 13:45:04,672 basehttp 124 "POST /user/users HTTP/1.1" 500 66671
+WARNING 2020-12-07 13:45:40,727 basehttp 124 "POST /user/users/ HTTP/1.1" 405 41
+INFO 2020-12-07 13:49:03,665 basehttp 124 "POST /user/users/ HTTP/1.1" 201 22
+ERROR 2020-12-07 16:36:06,578 exception 74 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING 2020-12-07 16:36:06,914 basehttp 124 "GET /project/select HTTP/1.1" 400 66820
+ERROR 2020-12-07 16:36:07,351 exception 74 Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+WARNING 2020-12-07 16:36:07,425 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 66716
+INFO 2020-12-07 16:59:16,714 basehttp 124 "POST /user/users/ HTTP/1.1" 201 22
+WARNING 2020-12-07 17:06:27,763 basehttp 124 "POST /user/users/ HTTP/1.1" 400 52
+WARNING 2020-12-07 17:06:57,147 basehttp 124 "POST /user/users/ HTTP/1.1" 400 49
+ERROR 2020-12-07 17:07:23,642 exception 118 Internal Server Error: /user/users/
+Traceback (most recent call last):
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\envs\envxyq\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\envs\envxyq\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\envs\envxyq\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\serializers.py", line 213, in save
+    self.instance = self.create(validated_data)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\serializers.py", line 932, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\query.py", line 417, in create
+    obj.save(force_insert=True, using=self.db)
+  File "E:\envs\envxyq\lib\site-packages\django\contrib\auth\base_user.py", line 73, in save
+    super().save(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\sql\compiler.py", line 1285, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+ERROR 2020-12-07 17:07:23,702 basehttp 124 "POST /user/users/ HTTP/1.1" 500 21917
+ERROR 2020-12-07 17:08:36,467 exception 118 Internal Server Error: /user/users/
+Traceback (most recent call last):
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\envs\envxyq\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\envs\envxyq\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\envs\envxyq\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\serializers.py", line 213, in save
+    self.instance = self.create(validated_data)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\serializers.py", line 932, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\query.py", line 417, in create
+    obj.save(force_insert=True, using=self.db)
+  File "E:\envs\envxyq\lib\site-packages\django\contrib\auth\base_user.py", line 73, in save
+    super().save(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\sql\compiler.py", line 1285, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+ERROR 2020-12-07 17:08:36,550 basehttp 124 "POST /user/users/ HTTP/1.1" 500 21917
+ERROR 2020-12-07 17:10:59,811 exception 118 Internal Server Error: /user/users/
+Traceback (most recent call last):
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\envs\envxyq\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\envs\envxyq\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\envs\envxyq\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\views.py", line 494, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\serializers.py", line 213, in save
+    self.instance = self.create(validated_data)
+  File "E:\envs\envxyq\lib\site-packages\rest_framework\serializers.py", line 932, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\query.py", line 417, in create
+    obj.save(force_insert=True, using=self.db)
+  File "E:\envs\envxyq\lib\site-packages\django\contrib\auth\base_user.py", line 73, in save
+    super().save(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "E:\envs\envxyq\lib\site-packages\django\db\models\sql\compiler.py", line 1285, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\envs\envxyq\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "E:\envs\envxyq\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+ERROR 2020-12-07 17:10:59,877 basehttp 124 "POST /user/users/ HTTP/1.1" 500 21917
+INFO 2020-12-07 17:17:15,991 basehttp 124 "POST /user/users/ HTTP/1.1" 201 33
+WARNING 2020-12-07 17:17:23,490 basehttp 124 "POST /user/users/ HTTP/1.1" 400 52
+WARNING 2020-12-07 17:29:15,273 basehttp 124 "POST /user/users/ HTTP/1.1" 400 37
+WARNING 2020-12-07 17:29:43,364 basehttp 124 "POST /user/users/ HTTP/1.1" 400 37
+INFO 2020-12-07 17:32:10,100 basehttp 124 "POST /user/users/ HTTP/1.1" 201 213
+INFO 2020-12-07 18:35:06,620 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 18:35:06,625 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 18:35:06,629 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 18:35:06,681 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 18:35:06,681 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 18:35:06,722 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 18:35:06,725 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-12-07 18:35:06,735 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-12-07 18:35:06,737 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-12-07 18:36:23,783 basehttp 124 "OPTIONS /user/users/ HTTP/1.1" 200 0
+INFO 2020-12-07 18:36:24,024 basehttp 124 "POST /user/users/ HTTP/1.1" 201 213
+INFO 2020-12-07 19:10:05,759 basehttp 124 "POST /user/users/ HTTP/1.1" 201 216
+INFO 2020-12-07 19:26:03,266 basehttp 124 "POST /user/users/ HTTP/1.1" 201 216
+INFO 2020-12-07 19:27:07,183 basehttp 124 "POST /user/users/ HTTP/1.1" 201 216
+WARNING 2020-12-07 19:30:57,592 basehttp 124 "POST /user/users/ HTTP/1.1" 400 52
+INFO 2020-12-07 19:31:12,652 basehttp 124 "POST /user/users/ HTTP/1.1" 201 216
+WARNING 2020-12-07 19:32:25,125 basehttp 124 "POST /user/users/ HTTP/1.1" 400 52
+INFO 2020-12-07 19:33:14,884 basehttp 124 "POST /user/users/ HTTP/1.1" 201 216
+INFO 2020-12-07 19:33:16,022 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 19:33:16,025 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 19:33:16,030 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 19:34:54,480 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 19:34:54,485 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 19:34:54,496 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 19:35:35,270 basehttp 124 "POST /user/users/ HTTP/1.1" 201 216
+INFO 2020-12-07 19:35:36,535 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 19:35:36,542 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 19:35:36,565 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
+INFO 2020-12-07 19:45:12,029 basehttp 124 "GET /home/banners/ HTTP/1.1" 200 247
+INFO 2020-12-07 19:45:12,030 basehttp 124 "GET /home/nav/ HTTP/1.1" 200 325
+INFO 2020-12-07 19:45:12,036 basehttp 124 "GET /home/f_nav/ HTTP/1.1" 200 405
