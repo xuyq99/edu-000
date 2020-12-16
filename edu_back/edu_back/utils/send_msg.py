@@ -29,6 +29,5 @@ class Message(object):
 
 
 if __name__ == '__main__':
-    # apikey :  6d7595a5ce8b3294fca26ebaf973196e
     message = Message(constants.API_KEY)
-    message.send_message('18736114603', '123456')
+    # message.send_message('18736114603', '123456')
